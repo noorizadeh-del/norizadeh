@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>نوری‌زاده | پیک کپسول بندرعباس</title>
+  <title>تعویض کپسول | 
+    ل بندرعباس</title>
   <style>
     body {
       font-family: "Vazir", sans-serif;
@@ -92,7 +93,7 @@
 
   <section id="home">
     <h2>خانه</h2>
-    <p>به سایت نوری‌زاده خوش آمدید. ارائه خدمات تعویض و تحویل سریع کپسول گاز درب منزل در سراسر بندرعباس.</p>
+    <p> تحویل کپسول گاز درب منزل در بندرعباس.</p>
   </section>
 
   <section id="about">
